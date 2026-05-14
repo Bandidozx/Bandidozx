@@ -51,10 +51,13 @@ const bandidoz = {
   
 ### 📊 GitHub Stats
 
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Bandidozx&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="170" alt="stats" />
-<img src="https://streak-stats.demolab.com/?user=Bandidozx&theme=tokyonight&hide_border=true" height="170" alt="streak" />
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Bandidozx&theme=tokyonight)
 
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Bandidozx&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" height="170" alt="languages" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Bandidozx&theme=tokyonight" height="180" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Bandidozx&theme=tokyonight" height="180" />
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Bandidozx&theme=tokyonight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Bandidozx&theme=tokyonight)
 
 </div>
 
