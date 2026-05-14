@@ -51,10 +51,10 @@ const bandidoz = {
   
 ### 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=Bandidozx&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="170" alt="stats" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Bandidozx&theme=tokyonight&hide_border=true" height="170" alt="streak" />
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Bandidozx&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="170" alt="stats" />
+<img src="https://streak-stats.demolab.com/?user=Bandidozx&theme=tokyonight&hide_border=true" height="170" alt="streak" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bandidozx&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" height="170" alt="languages" />
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Bandidozx&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" height="170" alt="languages" />
 
 </div>
 
