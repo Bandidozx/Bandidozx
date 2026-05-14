@@ -1,7 +1,7 @@
 ## Hey there 👋
 
 <div align="center">
-  <img height="180" src="https://i.imgur.com/dM7Tugv.gif" alt="Crypto Banner" />
+  <img height="180" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Crypto+Builder+%26+DeFi+Enthusiast;Building+AI+Agents+%7C+Trading+Bots+%7C+Web3+Automation" alt="Typing SVG" />
   
   <p align="center"> 
     <a href="https://bandidoz.xyz">
