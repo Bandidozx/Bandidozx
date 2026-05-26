@@ -10,9 +10,6 @@
     <a href="https://github.com/Bandidozx">
       <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
     </a>
-    <a href="https://bandidoz.xyz">
-      <img src="https://img.shields.io/badge/Portfolio-00D9FF?style=for-the-badge&logo=globe&logoColor=white"/>
-    </a>
   </p>
 </div>
 
@@ -114,7 +111,6 @@ const bandidoz = {
 **Reach out:**
 - Twitter: [@maxwelxyz](https://x.com/maxwelxyz)
 - GitHub: [@Bandidozx](https://github.com/Bandidozx)
-- Portfolio: [bandidoz.xyz](https://bandidoz.xyz)
 
 </div>
 
