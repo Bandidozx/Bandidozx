@@ -42,10 +42,9 @@ const bandidoz = {
 ### 📦 Featured Projects
 
 | Project | Tech | Status | Description |
-|---------|------|--------|-------------|
+|---------|------|--------|-------------| 
 | **[Predict WorkNet Agent](https://github.com/Bandidozx/verified-agent-identity)** | Python, LLM | 🟢 Active | BTC/ETH prediction agent with 3-slot submission |
 | **[Walrus Vault](https://github.com/Bandidozx/walrus-vault)** | Move, Sui | 🟢 Active | Encrypted data storage on Sui blockchain |
-| **[Portfolio Dashboard](https://bandidoz.xyz)** | React, Web3.js | 🟢 Live | Real-time crypto portfolio tracker + wallet generator |
 | **[Trading Bot Suite](https://github.com/Bandidozx)** | Node.js, Python | 🟢 Active | Multi-exchange arbitrage & sniper bots |
 
 ---
